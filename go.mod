@@ -1,1 +1,1 @@
-module github.com/go-modules-by-example-staging/goinfo-maj-branch
+module github.com/go-modules-by-example-staging/goinfo-maj-branch/v2
